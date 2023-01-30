@@ -918,42 +918,42 @@
                 },
                 {
                     "sub-title": "When is OI-TI advised?",
-                    "desc":[
+                    "desc": [
                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                     ]
                 },
                 {
                     "sub-title": "What should I expect?",
-                    "desc":[
+                    "desc": [
                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                     ]
                 },
                 {
                     "sub-title": "Guidelines for Post Procedure",
-                    "desc":[
+                    "desc": [
                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                     ]
                 },
                 {
                     "sub-title": "Are There Any Risks?",
-                    "desc":[
+                    "desc": [
                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                     ]
                 },
                 {
                     "sub-title": "Guidelines for Post Procedure",
-                    "desc":[
+                    "desc": [
                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
                         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                     ]
                 },
                 {
                     "sub-title": "FAQs",
-                    "desc":  [
+                    "desc": [
                         {
                             "title": "Do you do residential work?",
                             "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
@@ -969,7 +969,6 @@
                     ]
                 }
             ]
-            
         },
         {
             "treatment_name": "IUI",
@@ -1012,18 +1011,34 @@
                 },
                 {
                     "sub-title": "FAQs",
-                    "desc":  [
+                    "desc": [
                         {
-                            "title": "Do you do residential work?",
-                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            "title": "How painful is it?",
+                            "fdesc": [
+                                "The use of injectable medications in IVF may cause some discomfort. To minimize pain, some patients find it helpful to ice the area before injection. In response to the medications, your ovaries may grow multiple follicles, causing discomfort and bloating.",
+                                "In the process of retrieving the eggs, you will be anesthetized. It is a quick and painless procedure. After your egg retrieval, you may experience some soreness, abdominal bloating, and cramping for a day or two. In most cases, embryo transfer is painless, similar to a pap smear."
+                            ]
                         },
                         {
-                            "title": "Do you do residential work?",
-                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            "title": "Can IVF be expensive?",
+                            "fdesc": [
+                                "Depending on where you go and whether additional procedures, such as intracytoplasmic sperm injection (ICSI) or genetic testing of embryos, are necessary, IVF can cost differently from clinic to clinic. IVF using frozen eggs costs an average of INR 1,50,000/- at Vriksh Fertility, with additional fees for testing, medication, and storage.",
+                                "It is important to check your fertility health benefits with your insurance provider before you begin treatment. IVF may be covered by your insurance.. To make the IVF process more affordable for patients, Vriksh Fertility offers IVF Refund and Multi-Cycle programs."
+                            ]
                         },
                         {
-                            "title": "Do you do residential work?",
-                            "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                            "title": "What Is The Risk Of Twins Or Multiples?",
+                            "fdesc": [
+                                "You have a greater chance of having twins or more with IVF depending on how many embryos are transferred to your uterus. In modern fertility treatment, the chance of twins or multiples has been reduced to 1-2% due to advances in fertility treatment.",
+                                "A fertility specialist can help you determine how many embryos to transfer as part of your  treatment plan."
+                            ]
+                        },
+                        {
+                            "title": "How Successful Is IVF?",
+                            "fdesc": [
+                                "Depending on where you go and whether additional procedures, such as intracytoplasmic sperm injection (ICSI) or genetic testing of embryos, are necessary, IVF can cost differently from clinic to clinic. IVF using frozen eggs costs an average of INR 1,50,000/- at Vriksh Fertility, with additional fees for testing, medication, and storage.",
+                                "It is important to check your fertility health benefits with your insurance provider before you begin treatment. IVF may be covered by your insurance.. To make the IVF process more affordable for patients, Vriksh Fertility offers IVF Refund and Multi-Cycle programs."
+                            ]
                         }
                     ]
                 }
@@ -1066,16 +1081,15 @@
                     "sub-title": "Common reasons to undergo IVF",
                     "desc": [
                         "Age related infertility: A woman’s egg quality diminishes with age. IVF can give an older woman a better chance to conceive by increasing the number of eggs she produces, enhancing selection of good quality eggs, or by allowing her to use donor eggs to create embryos.",
-                    "Recurrent pregnancy loss/miscarriage: Depending upon the underlying issue for recurrent pregnancy loss, IVF may be an effective treatment in helping to begin a successful pregnancy by increasing the number of candidate embryos and possibly using PGD or PGS to enhance successful implantation.",
-                    "Recurrent pregnancy loss/miscarriage:Depending upon the underlying issue for recurrent pregnancy loss, IVF may be an effective treatment in helping to begin a successful pregnancy by increasing the number of candidate embryos and possibly using PGD or PGS to enhance successful implantation.",
-                    "Unexplained infertility:One fifth of infertile couples are diagnosed with unexplained infertility, and these couples often achieve pregnancy using IVF.",
-                    "If a woman is not ovulating (anovulation), ovulation- inducing pills often aid in achieving pregnancy. But if she is unable to achieve pregnancy with these conservative measures, IVF can be used, which has very high success rates.",
-                    "Damaged fallopian tubes:If significant tubal damage exists, the only fertility treatment options are surgical repair, which has a low success rate, and bypassing the fallopian tubes using IVF.",
-                    "Male infertility factors:Typically, male infertility factors involve low quantity or quality of sperm. In these cases physicians recommend IVF with intracytoplasmic sperm injection (ICSI).",
-                    "Endometriosis: Endometriosis can cause infertility but can be successfully treated using a combination of surgery and medication. If the first round of surgical or medical treatment fails, IVF is an appropriate next step.",
-                    "Low ovarian reserve:If a woman has a low number of eggs in her ovaries, the IVF process can be used to stimulate healthy eggs to develop, allowing the reproductive endocrinologist to collect mature eggs directly from the ovaries. In particular, younger women with low ovarian reserve who generally have good egg quality would have better success rates with IVF treatment."
-
-                ]
+                        "Recurrent pregnancy loss/miscarriage: Depending upon the underlying issue for recurrent pregnancy loss, IVF may be an effective treatment in helping to begin a successful pregnancy by increasing the number of candidate embryos and possibly using PGD or PGS to enhance successful implantation.",
+                        "Recurrent pregnancy loss/miscarriage:Depending upon the underlying issue for recurrent pregnancy loss, IVF may be an effective treatment in helping to begin a successful pregnancy by increasing the number of candidate embryos and possibly using PGD or PGS to enhance successful implantation.",
+                        "Unexplained infertility:One fifth of infertile couples are diagnosed with unexplained infertility, and these couples often achieve pregnancy using IVF.",
+                        "If a woman is not ovulating (anovulation), ovulation- inducing pills often aid in achieving pregnancy. But if she is unable to achieve pregnancy with these conservative measures, IVF can be used, which has very high success rates.",
+                        "Damaged fallopian tubes:If significant tubal damage exists, the only fertility treatment options are surgical repair, which has a low success rate, and bypassing the fallopian tubes using IVF.",
+                        "Male infertility factors:Typically, male infertility factors involve low quantity or quality of sperm. In these cases physicians recommend IVF with intracytoplasmic sperm injection (ICSI).",
+                        "Endometriosis: Endometriosis can cause infertility but can be successfully treated using a combination of surgery and medication. If the first round of surgical or medical treatment fails, IVF is an appropriate next step.",
+                        "Low ovarian reserve:If a woman has a low number of eggs in her ovaries, the IVF process can be used to stimulate healthy eggs to develop, allowing the reproductive endocrinologist to collect mature eggs directly from the ovaries. In particular, younger women with low ovarian reserve who generally have good egg quality would have better success rates with IVF treatment."
+                    ]
                 },
                 {
                     "sub-title": "IVF: what are the risks?",
@@ -1093,7 +1107,7 @@
                 },
                 {
                     "sub-title": "FAQs",
-                    "desc":  [
+                    "desc": [
                         {
                             "title": "Do you do residential work?",
                             "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
@@ -1121,7 +1135,7 @@
                 },
                 {
                     "sub-title": "When is OI-TI advised?",
-                    "desc": [ 
+                    "desc": [
                         ""
                     ]
                 },
@@ -1151,7 +1165,7 @@
                 },
                 {
                     "sub-title": "FAQs",
-                    "desc":  [
+                    "desc": [
                         {
                             "title": "Do you do residential work?",
                             "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
