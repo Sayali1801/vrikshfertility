@@ -1314,6 +1314,98 @@
 
 
 
+        {
+            "treatment_name": "AzooSpermia Treatment ",
+            "sub_data": [
+                {
+                    "sub_title": "AzooSpermia",
+                    "desc": [
+                        "Azoospermia means there’s no sperm in a man’s ejaculate. Its causes include a blockage along the reproductive tract, hormonal problems, ejaculation problems or issues with testicular structure or function. Many causes are treatable and fertility can be restored. For other causes it may be possible to retrieve live sperm to be used in assisted reproductive techniques. Male reproductive anatomy.",
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What is azoospermia?",
+                            "fdesc": [
+                                "Azoospermia is a condition in which there’s no measurable sperm in a man’s ejaculate (semen). Azoospermia leads to male infertility."
+                            ]
+                        },
+                        {
+                            "title": "How common is azoospermia?",
+                            "fdesc": [
+                                "About 1% of all men and 10% to 15% of infertile men have azoospermia."
+                            ]
+                        },
+                        {
+                            "title": "What are the parts of the male reproductive system?",
+                            "fdesc": [
+                                "The male reproductive system is made up of the following:",
+                                "Testes, or testicles produce sperm (male reproductive cells) in a process called spermatogenesis.",
+                                 "Seminiferous tubules are tiny tubes that make up most of the tissue of the testes. ",
+                                 "Epididymis is the structure on the back of each testicle into which mature  sperm are moved and stored. ",
+                                 "It is the muscular tube that passes from the epididymis into the pelvis then curves around and enters the seminal vesicle.",
+                                  "Seminal vesicle is a tubular gland that produces and stores most of the fluid ingredients of semen. The vesicle narrows to form a straight duct, the seminal duct, which joins with the vas deferens",
+"Ejaculatory duct is created when the seminal vesicle duct merges with the vas deferens. The ejaculatory duct passes into the prostate gland and connects with the urethra.",
+"Urethra is the tube that runs through the penis to eliminate urine from the bladder and semen from the vas deferens.",
+"During ejaculation, sperm move from the testes and the epididymis into the vas deferens. Tightening (contraction) of the vas deferens moves the sperm along. Secretions from the seminal vesicle are added and the seminal fluid continues to move forward toward the urethra. Before reaching the urethra, the seminal fluid passes by the prostate gland, which adds a milky fluid to the sperm to form semen. Lastly, the semen is ejaculated (released) through the penis through the urethra. </br></br>A normal sperm count is considered to be 15 million/mL or more. Men with low sperm counts (oligozoospermia or oligospermia) have a sperm concentration of less than 15 million/mL. If you have azoospermia, you have no measurable sperm in your ejaculate."
+
+                        ]
+                        },
+                        {
+                            "title": "Are there different types of azoospermia?",
+                            "fdesc": ["There are two main types of azoospermia:",
+                        "Obstructive azoospermia: This type of azoospermia means that there is a blockage or missing connection in the epididymis, vas deferens, or elsewhere along your reproductive tract. You are producing sperm but it’s getting blocked from exit so there’s no measurable amount of sperm in your semen.",
+                    "Nonobstructive azoospermia: This type of azoospermia means you have poor or no sperm production due to defects in the structure or function of the testicles or other causes."]
+                        },
+                        {
+                            "title": "What are the causes of azoospermia?",
+                            "fdesc": [
+                                "The causes of azoospermia relate directly to the types of azoospermia. In other words, causes can be due to an obstruction or nonobstructive sources. ",
+                                "Obstructions that result in azoospermia most commonly occur in the vas deferens, the epididymus or ejaculatory ducts. Problems that can cause blockages in these areas include: ",
+                                "1. Trauma or injury to these areas.",
+                                "2. Infections.",
+                                "3. Inflammation.",
+                                "4. Previous surgeries in the pelvic area.",
+                                "5. Development of a cyst.",
+                                "6. Vasectomy (planned permanent contraceptive procedure in which the vas deferens are cut or clamped to prevent the flow of sperm). ",
+                                "7. Cystic fibrosis gene mutation, which causes either the vas deferens not to form or causes abnormal development such that semen gets blocked by a buildup of thick secretions in the vas deferens.  ",
+                                "Nonobstructive causes of azoospermia include:",
+                                "Genetic causes. Certain genetic mutations can result in infertility, including:",
+                                "a.Kallmann syndrome: A genetic (inherited) disorder carried on the X chromosome and that if left untreated can result in infertility.",
+                                "b.Klinefelter’s syndrome: A male carries an extra X chromosome (making his chromosomal makeup XXY instead of XY). The result is often infertility, along with lack of sexual or physical maturity, and learning difficulties.",
+                                "c.Y chromosome deletion: Critical sections of genes on the Y chromosome (the male chromosome) that are responsible for sperm production are missing, resulting in infertility.",
+                                "8. Hormone imbalances/endocrine disorders, including hypogonadotropic hypogonadism. hyperprolactinemia and androgen resistance.",
+                                "9. Ejaculation problems such as retrograde ejaculation where the semen goes in to the bladder",
+                                "10. Testicular causes include:",
+                                "a.Anorchia (absence of the testicles).",
+                                "b.Cyptorchidism (testicles have not dropped into the scrotum).",
+                                "c.Sertoli cell-only syndrome (testicles fail to produce living sperm cells).",
+                                "d.Spermatogenic arrest (testicles fail to produce fully mature sperm cells).",
+                                "e.Mumps orchitis (inflamed testicles caused by mumps in late puberty). ",
+                                "f.Testicular torsion. ",
+                                "g.Tumors.",
+                                "h.Reactions to certain medications that harm sperm production.",
+                                "i.Radiation treatments.",
+                                "j.Diseases such as diabetes, cirrhosis, or kidney failure. ",
+                                "k. Varicocele (veins coming from the testicle are dilated or widened impeding sperm production). "
+
+
+
+                            ]
+
+                        }
+                    ]
+                }
+            ]
+        },
+
+
+
+
+
+
 
         {
             "treatment_name": "fff",
