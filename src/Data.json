@@ -1127,38 +1127,97 @@
             ]
         },
         {
-            "treatment_name":"ERA",
-            "treatment_desc":"Biopsy of the endometrium using the Endometrial Receptivity Array (ERA) ",
-            "sub_data":[
+            "treatment_name": "ERA",
+            "sub_data": [
                 {
-"sub_title":"An overview of endometrial receptivity",
-"desc":[
-    " ERA (endometrial receptivity array) is a diagnostic test used to determine whether the endometrium is ready to implant embryos",
-    "Endometrial biopsy is a relatively new procedure that involves biopsying a small sample of the lining of the uterus, the endometrium, for molecular analysis.",
-    "In women with multiple failed in vitro fertilization (IVF) attempts or recurrent pregnancy loss, problems with the endometrial lining can cause infertility. ",
-    "A recurrent pregnancy loss or multiple miscarriages may warrant an ERA biopsy for women who have undergone IVF cycles with unsuccessful implantation. ",
-    "To predict the ideal implantation window for the above patients, an ERA biopsy is performed. "
-]
+                    "sub-title": "An overview of endometrial receptivity",
+                    "desc": [
+                        " ERA (endometrial receptivity array) is a diagnostic test used to determine whether the endometrium is ready to implant embryos",
+                        "Endometrial biopsy is a relatively new procedure that involves biopsying a small sample of the lining of the uterus, the endometrium, for molecular analysis.",
+                        "In women with multiple failed in vitro fertilization (IVF) attempts or recurrent pregnancy loss, problems with the endometrial lining can cause infertility. ",
+                        "A recurrent pregnancy loss or multiple miscarriages may warrant an ERA biopsy for women who have undergone IVF cycles with unsuccessful implantation. ",
+                        "To predict the ideal implantation window for the above patients, an ERA biopsy is performed. "
+                    ]
                 },
                 {
-                    "sub_title":"Understanding ERA endometrial biopsy",
-                    "desc":[
+                    "sub-title": "Understanding ERA endometrial biopsy",
+                    "desc": [
                         "As part of an IVF cycle, doctors use ultrasound technology to assess the thickness and pattern of the endometrial lining. Even though ultrasound is an established study, some patients with an appropriate endometrial lining and morphologically high-quality embryos fail to conceive and deliver a live baby after IVF.",
                         "Some patients may have altered windows of implantation which may decrease their implantation rate and pregnancy success when using traditional ultrasound and hormone assessment. 248 genes are examined by the endometrial receptivity assay (ERA) to elicit information about the window of implantation in the endometrium."
                     ]
                 },
                 {
-                    "sub_title":"When it comes to embryo implantation, how can an ERA biopsy help?",
-                    "desc":[
+                    "sub-title": "When it comes to embryo implantation, how can an ERA biopsy help?",
+                    "desc": [
                         "To understand ERA testing, it can be helpful to review the female reproductive system. There are a number of variables involved in conception, making it a complex biological process.",
                         "The woman's ovaries must first release an egg. Ovulation refers to this process. The egg is only viable for 12-24 hours after it has been released. To fertilize the egg, the man's sperm must travel to the fallopian tubes, where it meets the egg.",
                         "In the second stage, the resulting embryo, which will be in the blastocyst stage of development, implants into the uterine lining. An embryo must be able to be implanted and nurtured by the uterine lining. During each monthly cycle, the window of implantation occurs when a woman's uterine lining is most receptive."
                     ]
                 }
+            ]
+        },
+        {
+            "treatment_name": "PGT-A REWRITTEN",
+            "sub_data": [
+                {
+                    "sub_title": "An overview of genetic testing for preimplantation embryos",
+                    "desc": [
+                        "Preimplantation genetic testing (PGT) during in vitro fertilisation (IVF) screens embryos for a variety of genetic issues that can cause implantation failure, miscarriage, and birth abnormalities in a child. ",
+                        "Birth abnormalities or pregnancy loss can result from a variety of genetic illnesses, such as extra chromosomes in the embryo (like Down syndrome), single gene diseases (like sickle cell anaemia), or gene rearrangements.",
+                        "There are three different kinds of PGTs, which perform the same tasks as the well-known PGD and PGS tests for preimplantation genetic diagnosis and screening, respectively.",
+                        "Using PGT, embryologists can identify genetic flaws in an embryo prior to IVF, preventing those embryos from being implanted into the woman's uterus.",
+                        "To predict the ideal implantation window for the above patients, an ERA biopsy is performed. "
+                    ]
+                },
+                {
+                    "sub_title": "For embryos, what is preimplantation genetic testing (PGT)?",
+                    "desc": [
+                        "Preimplantation genetic testing on embryos during IVF is possible in three ways:",
+                        "examining chromosomal counts during preimplantation genetic testing to look for abnormalities (PGT-A)"
+                    ]
+                },
+                {
+                    "sub_title": "Preimplantation genetic testing for single-gene disorders, or PGT-M  ",
+                    "desc": [
+                        "Prior to implantation, a PGT-SR can find known chromosome mis-arrangements such as inversions and translocations.",
+                        "These tests are performed by reproductive specialists for two key reasons. The first step is to see if there are any genetic abnormalities in the embryos that might hinder implantation or miscarriage, leading to unsuccessful IVF. In the second scenario, genetic flaws in embryos might induce the inheritance of inheritable diseases like muscular dystrophy or fatal genetic abnormalities.",
+                        "Such faults prevent an embryo from being placed in a mother's womb for conception. Live births and unsuccessful pregnancies can be caused by genetic mistakes in embryos. If a couple is interested in PGT testing, they can talk about their possibilities with a fertility doctor.",
+                        "Preimplantation genetic testing (PGT), also known as preimplantation genetic screening (PGS), preimplantation genetic diagnosis (PGD), and preimplantation genetic testing (PGT), is a new term that has replaced the old terminologies in the medical world. PGS executes its duties via PGT-A. PGT-M or PGT-SR are now both capable of performing the duties of PGD. The tests themselves continue to be administered in a similar or identical manner."
+                    ]
+                },
+                {
+                    "sub_title": "Aneuploidy tests before implantation (PGT-A)",
+                    "desc": [
+                        "In PGT-A, the chromosome count of embryonic cells is examined to see if it is normal. An uneven division of either sperm or egg cells can result in an embryo having either too few or too many chromosomes.",
+                        "People typically have 46 chromosomes since each parent contributes 23 chromosomes to each child. An embryo or cell is said to be aneuploid if it has an additional chromosome or if one is missing altogether. When one chromosome is absent, the condition is known as monosomy; when one chromosome has two copies, it is known as trisomy.",
+                        "Turner syndrome, which results from the lack of an X chromosome, is the only monosomy that can survive in a child. Trisomy 21 (Down syndrome), Turner syndrome, and other conditions can occur from an extra chromosome in pair 21 of normal chromosomes. Aneuploidy is one of the leading causes of miscarriage and unsuccessful pregnancy implantation."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What is the PGT procedure?",
+                            "fdesc": ["The three different PGTs are all carried out similarly. The patient follows the doctor's advice and has an IVF cycle and egg retrieval. Their embryos are observed in our lab till they are referred to as blastocysts on day 5 or day 6. A few cells are extracted from the biopsyed (removed) embryos and sent to a lab for PGT. The blastocyst's trophectoderm eventually develops into the placenta.",
+                        "It is anticipated that these cells will constitute the remainder of the embryo, although due to things like mosaicism, this may not always be the case (see question 13). The embryo(s) must be frozen before PGT. An embryo with normal PGT results will be chosen, frozen, and implanted into the patient's uterus later."
+                    ]
+            },
+                        {
+                            "title": "When must I decide whether to pursue PGT?",
+                            "fdesc": ["You should decide to have PGT a long time before your IVF cycle. Before an IVF cycle can occur, DNA samples from the patient, their partner or donor, and occasionally other family members, may need to be obtained.",
+                        "To see if the lab will be able to accurately identify the genetic alterations in the patient's embryo, PGT-M is put through a test development phase. The test creation stage can take up to 12 weeks after receiving all DNA samples. This procedure must be finished in its entirety before an IVF cycle (stimulating drugs) can begin."
+                    ]
+                        },
+                        {
+                            "title": "The PGT-A test looks for what kinds of chromosomal abnormalities? ",
+                            "fdesc": ["The main goal of a PGT-A embryo is to guarantee that it is euploid, or having the appropriate amount of chromosomes. PGT-A can identify monosomies (incomplete chromosomes) and trisomies (incomplete chromosomes) in embryos. PGT-A also checks for chromosomal duplications and deletions. Large deletions and duplications are necessary for their detection. In some versions, but not all, the PGT-A may also pick up on mosaicism and uniparental disomy (UPD). Our genetic counsellor will go over the different kinds of outcomes that can be discovered during your session."]
+                        }
+                    ]
+                }
+
                 
             ]
         },
-        
         {
             "treatment_name": "fff",
             "sub_data": [
