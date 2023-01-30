@@ -1033,33 +1033,56 @@
             "treatment_name": "ivf",
             "sub_data": [
                 {
-                    "sub-title": "Ovulation Induction",
+                    "sub-title": "What is IVF?",
                     "desc": [
-                        ""
+                        "In vitro fertilisation (IVF) is an assisted reproductive technology that begins by collecting a woman’s eggs and a man’s sperm and combining them together outside the woman’s body in a laboratory dish for fertilisation. In vitro is Latin for “in glass” and refers to the laboratory Petri dish in which the egg and sperm are combined. When the eggs are fertilised and become embryos, the physician determines which embryos to transfer to the woman.",
+                        "The treatment of IVF is deemed successful, if the embryo gets implanted in the uterus which results in a positive pregnancy. Any remaining embryos can be frozen and stored for future use or donated to other couples. In vitro fertilization can overcome most causes of male and female infertility.",
+                        "In vitro fertilization is highly successful due to its controlled interaction of eggs and sperm. Medications ensure that the woman can produce an increased number of mature eggs a single time. Doctors can then determine all the developed  embryos to determine which ones are most likely to result in pregnancy.",
+                        "While not appropriate for all couples or individuals, IVF offers a high chance of pregnancy in a short period of time.",
+                        "The first IVF baby was born in 1978."
                     ]
                 },
                 {
-                    "sub-title": "When is OI-TI advised?",
+                    "sub-title": "The technique involves five basic steps",
                     "desc": [
-                        ""
+                        "In superovulation, a woman is stimulated to release multiple healthy eggs, as opposed to the single egg a woman normally ovulates.",
+                        "The retrieval of eggs and the collection of sperm.",
+                        "During insemination, the sperm fertilizes the eggs.",
+                        "Development of embryos and genetic testing (if needed).",
+                        "The transfer of an embryo into the uterus of a woman. "
                     ]
                 },
                 {
-                    "sub-title": "What should I expect?",
+                    "sub-title": "In vitro fertilization is suitable for whom?",
                     "desc": [
-                        ""
+                        "Overall, IVF can help some patients experience pregnancy and parenthood who would otherwise not be able to.",
+                        "Age-related infertility affects women in their 30s or early 40s (see age-related infertility below), ovulatory problems, anatomical problems, male infertility factors, as well as couples seeking donor sperm.",
+                        "Usually, IVF is recommended for women with nonfunctional or missing fallopian tubes and for men with poor sperm quality.",
+                        "In some instances, a doctor may first recommend alternative  treatments for infertility like intrauterine insemination (IUI), prior to IVF. However, if these are not successful,IVF is often the next step.",
+                        "IVF treatment is also beneficial when one or both parents carries potential genetic defects because it allows for preimplantation genetic diagnosis (PGD) or preimplantation genetic screening (PGS) on embryos prior to uterus implantation. PGD and PGS can help increase the chances of a live birth because these forms of genetic testing can identify embryos with chromosomal and genetic defects. Such defects are a major cause of both failure of an embryo to implant and miscarriage. Embryos identified through PGD or PGS as carrying these conditions are not chosen for implantation."
                     ]
                 },
                 {
-                    "sub-title": "Guidelines for Post Procedure",
+                    "sub-title": "Common reasons to undergo IVF",
                     "desc": [
-                        ""
-                    ]
+                        "Age related infertility: A woman’s egg quality diminishes with age. IVF can give an older woman a better chance to conceive by increasing the number of eggs she produces, enhancing selection of good quality eggs, or by allowing her to use donor eggs to create embryos.",
+                    "Recurrent pregnancy loss/miscarriage: Depending upon the underlying issue for recurrent pregnancy loss, IVF may be an effective treatment in helping to begin a successful pregnancy by increasing the number of candidate embryos and possibly using PGD or PGS to enhance successful implantation.",
+                    "Recurrent pregnancy loss/miscarriage:Depending upon the underlying issue for recurrent pregnancy loss, IVF may be an effective treatment in helping to begin a successful pregnancy by increasing the number of candidate embryos and possibly using PGD or PGS to enhance successful implantation.",
+                    "Unexplained infertility:One fifth of infertile couples are diagnosed with unexplained infertility, and these couples often achieve pregnancy using IVF.",
+                    "If a woman is not ovulating (anovulation), ovulation- inducing pills often aid in achieving pregnancy. But if she is unable to achieve pregnancy with these conservative measures, IVF can be used, which has very high success rates.",
+                    "Damaged fallopian tubes:If significant tubal damage exists, the only fertility treatment options are surgical repair, which has a low success rate, and bypassing the fallopian tubes using IVF.",
+                    "Male infertility factors:Typically, male infertility factors involve low quantity or quality of sperm. In these cases physicians recommend IVF with intracytoplasmic sperm injection (ICSI).",
+                    "Endometriosis: Endometriosis can cause infertility but can be successfully treated using a combination of surgery and medication. If the first round of surgical or medical treatment fails, IVF is an appropriate next step.",
+                    "Low ovarian reserve:If a woman has a low number of eggs in her ovaries, the IVF process can be used to stimulate healthy eggs to develop, allowing the reproductive endocrinologist to collect mature eggs directly from the ovaries. In particular, younger women with low ovarian reserve who generally have good egg quality would have better success rates with IVF treatment."
+
+                ]
                 },
                 {
-                    "sub-title": "Are There Any Risks?",
+                    "sub-title": "IVF: what are the risks?",
                     "desc": [
-                        ""
+                        "Multiple births (twins or more) are the most commonly reported risk associated with  IVF. It can lead to complications during pregnancy and labour, premature delivery, and ongoing medical and developmental problems for the children. After IVF treatment, most women are able to resume normal activities within a day. ",
+                        "There is always a risk of negative drug interactions and side effects with many medical treatments. The side effects of fertility medications can include headaches, mood swings, abdominal pain, hot flashes, and bloating. In addition to the risks associated with surgery, IVF carries the risks associated with anesthesia, blood loss, damage to tissue and organs, and infection.",
+                        "Additionally, some women may overreact to the hormone drugs used to stimulate their ovaries, but ultrasound and hormone monitoring during this drug treatment phase usually ensure that any overreaction is foreseen and risk is minimized."
                     ]
                 },
                 {
