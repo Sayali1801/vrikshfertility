@@ -1198,24 +1198,66 @@
                     "desc": [
                         {
                             "title": "What is the PGT procedure?",
-                            "fdesc": ["The three different PGTs are all carried out similarly. The patient follows the doctor's advice and has an IVF cycle and egg retrieval. Their embryos are observed in our lab till they are referred to as blastocysts on day 5 or day 6. A few cells are extracted from the biopsyed (removed) embryos and sent to a lab for PGT. The blastocyst's trophectoderm eventually develops into the placenta.",
-                        "It is anticipated that these cells will constitute the remainder of the embryo, although due to things like mosaicism, this may not always be the case (see question 13). The embryo(s) must be frozen before PGT. An embryo with normal PGT results will be chosen, frozen, and implanted into the patient's uterus later."
-                    ]
-            },
+                            "fdesc": [
+                                "The three different PGTs are all carried out similarly. The patient follows the doctor's advice and has an IVF cycle and egg retrieval. Their embryos are observed in our lab till they are referred to as blastocysts on day 5 or day 6. A few cells are extracted from the biopsyed (removed) embryos and sent to a lab for PGT. The blastocyst's trophectoderm eventually develops into the placenta.",
+                                "It is anticipated that these cells will constitute the remainder of the embryo, although due to things like mosaicism, this may not always be the case (see question 13). The embryo(s) must be frozen before PGT. An embryo with normal PGT results will be chosen, frozen, and implanted into the patient's uterus later."
+                            ]
+                        },
                         {
                             "title": "When must I decide whether to pursue PGT?",
-                            "fdesc": ["You should decide to have PGT a long time before your IVF cycle. Before an IVF cycle can occur, DNA samples from the patient, their partner or donor, and occasionally other family members, may need to be obtained.",
-                        "To see if the lab will be able to accurately identify the genetic alterations in the patient's embryo, PGT-M is put through a test development phase. The test creation stage can take up to 12 weeks after receiving all DNA samples. This procedure must be finished in its entirety before an IVF cycle (stimulating drugs) can begin."
-                    ]
+                            "fdesc": [
+                                "You should decide to have PGT a long time before your IVF cycle. Before an IVF cycle can occur, DNA samples from the patient, their partner or donor, and occasionally other family members, may need to be obtained.",
+                                "To see if the lab will be able to accurately identify the genetic alterations in the patient's embryo, PGT-M is put through a test development phase. The test creation stage can take up to 12 weeks after receiving all DNA samples. This procedure must be finished in its entirety before an IVF cycle (stimulating drugs) can begin."
+                            ]
                         },
                         {
                             "title": "The PGT-A test looks for what kinds of chromosomal abnormalities? ",
-                            "fdesc": ["The main goal of a PGT-A embryo is to guarantee that it is euploid, or having the appropriate amount of chromosomes. PGT-A can identify monosomies (incomplete chromosomes) and trisomies (incomplete chromosomes) in embryos. PGT-A also checks for chromosomal duplications and deletions. Large deletions and duplications are necessary for their detection. In some versions, but not all, the PGT-A may also pick up on mosaicism and uniparental disomy (UPD). Our genetic counsellor will go over the different kinds of outcomes that can be discovered during your session."]
+                            "fdesc": [
+                                "The main goal of a PGT-A embryo is to guarantee that it is euploid, or having the appropriate amount of chromosomes. PGT-A can identify monosomies (incomplete chromosomes) and trisomies (incomplete chromosomes) in embryos. PGT-A also checks for chromosomal duplications and deletions. Large deletions and duplications are necessary for their detection. In some versions, but not all, the PGT-A may also pick up on mosaicism and uniparental disomy (UPD). Our genetic counsellor will go over the different kinds of outcomes that can be discovered during your session."
+                            ]
                         }
                     ]
                 }
-
-                
+            ]
+        },
+        {
+            "treatment_name": "Assisted Hatching",
+            "sub_data": [
+                {
+                    "sub_title": "IVF with Assisted Hatching for Higher Implantation Rates ",
+                    "desc": [
+                        "IVF failure is a frustrating experience for both individuals and couples, and it frequently results from an embryo that does not successfully implant in the uterus.",
+                        "Your fertility specialist could suggest aided hatching if you've had multiple unsuccessful IVF cycles or have a poor prognosis for IVF."
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What exactly is aided hatching? ",
+                            "fdesc": [
+                                "The cells start to divide after a laboratory-fertilized egg. The zona pellicuda, a layer of proteins, surrounds the embryo during these early stages of development. An embryo must emerge through the zona pellucida and adhere to the uterine walls in order to properly implant into the uterine lining.",
+                                "A more recent laboratory procedure called assisted hatching was created after fertility specialists noticed that embryos with a thin zona pellucida had a better likelihood of implantation during IVF. Under a microscope, an embryologist can manipulate the zona pellucida to make a tiny hole for aided hatching. This occurs on the third day of embryo development, when there are typically six to eight cells per embryo.",
+                                "An embryo stabilisation pipette is used. A tiny laser on the opposing side slightly damages the zona pellucida. The embryos are then placed back in the incubator to continue to develop."
+                            ]
+                        },
+                        {
+                            "title": "Who ought to use IVF and assisted hatching?",
+                            "fdesc": [
+                                "Some couples with a poor prognosis may benefit from assisted hatching since their embryos may not have the energy to finish the hatching process.",
+                                "According to the American Society for Reproductive Medicine, women with the following conditions may benefit from assisted hatching:",
+                                "Mother's advanced age (older than 38) Two or more IVF cycles that failed A bad quality embryo"
+                            ]
+                        },
+                        {
+                            "title": "IVF-assisted hatching: Is it secure?",
+                            "fdesc": [
+                                "Complications from assisted hatching are possible. It may be linked to a decrease in the viability of the embryo as well as harm to the embryo and individual blastomeres.",
+                                "Furthermore, aided hatching has been linked to a higher incidence of twin pregnancies. ",
+                            ]
+                        }
+                    ]
+                }
             ]
         },
         {
