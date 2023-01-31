@@ -1654,7 +1654,175 @@
                             "desc":["In general, whatever is healthy for a woman improves the chance of a healthy pregnancy. Stopping cigarette smoking and stopping illicit drug use (such as cocaine) will lower the risk for miscarriage. Limiting alcohol and caffeine intake may also help. Being overweight has been linked with increased risk of miscarriage, so healthy weight loss might also help pregnancy outcomes. There is no proof that stress, anxiety, or mild depression causes RPL. However, these are important problems that go along with RPL. Psychological support and counseling can help couples cope with the emotional pain of miscarriage and create a healthy environment for a pregnancy."]
                         }
                     ]
+                },
+
+                {
+                    "treatment_name":"Polycystic Ovary Syndrome (PCOS)",
+                    "sub_data":[
+                        {
+                            "sub-title":"Polycystic Ovary Syndrome (PCOS):",
+                            "desc":
+                            [
+                                "Hormones are impacted by the prevalent illness known as polycystic ovarian syndrome (PCOS). It results in infertility, excessive hair growth, acne, and irregular menstrual cycles. Whether or not you want to get pregnant will affect your PCOS treatment. PCOS sufferers may be more susceptible to diseases like diabetes and high blood pressure.",
+
+                            ]
+                        },
+                        {
+                            "sub-title":"A typical ovarian and an ovary from a person with PCOS are contrasted. What is polycystic ovarian syndrome?",
+                            "desc":[
+                                "The condition known as polycystic ovarian syndrome (PCOS) is brought on by an excess of male hormones produced by the ovaries, which is the organ responsible for producing and releasing eggs. Your ovaries produce exceptionally high levels of androgens if you have PCOS.",
+                                "Your reproductive hormones fall out of balance as a result. People with PCOS frequently experience irregular menstrual cycles, missed periods, and unexpected ovulation as a result. Due to a lack of ovulation, small cysts (fluid-filled sacs) may form on your ovaries (anovulation). Nevertheless, despite the moniker \"polycystic,\" PCOS does not require ovarian cysts.",
+                                "One of the most prevalent factors in female infertility is PCOS. It may also raise your risk of developing additional medical problems. Based on your symptoms and whether you intend to have children, your doctor can choose the best course of treatment for PCOS."
+                            ]
+                        },
+                        {
+                            "sub-title":"Who may develop PCOS?",
+                            "desc":[
+                                "After puberty, a woman can develop PCOS at any time. When a person is attempting to get pregnant in their 20s or 30s, they are typically diagnosed. If you are obese or overweight, have a family history of PCOS, or are overweight, your risk of developing the condition may be increased."
+                            ]
+                        },
+                        {
+                            "sub-title":"How widespread is PCOS?",
+                            "desc":[
+                                "Up to 15% of women of reproductive age have PCOS, making it a highly common condition."
+                            ]
+                        },
+                        {
+                            "sub-title":"What causes polycystic ovarian syndrome primarily?",
+                            "desc":[
+                                "There is no recognised cause for PCOS. There is proof that genetics are involved. The following other factors may also contribute to PCOS:",
+                                "higher concentrations of androgens, the male hormones: Ovulation is prevented by high amounts of testosterone, which results in irregular menstrual cycles. Small, fluid-filled sacs can also form in the ovaries as a result of irregular ovulation. Acne and excessive hair growth are further effects of high androgen in women.",
+                                "Insulin resistance: The ovaries produce and release male hormone as a result of elevated insulin levels (androgens). Increased levels of male hormone subsequently prevent ovulation and worsen other PCOS symptoms. Your body uses glucose (sugar) for energy with the aid of insulin. Because of improper insulin processing, which results in insulin resistance, your blood glucose levels are elevated. Although not all people with insulin resistance have diabetes or high blood sugar, insulin resistance can cause diabetes. Insulin resistance can also be exacerbated by being obese. Even if your blood glucose is normal, a high insulin level may be a sign of insulin resistance.",
+                                "Low-grade inflammation: PCOS sufferers frequently have low-grade inflammation. C-reactive protein (CRP) and white blood cell measurements can be done through blood tests by your doctor to determine how much inflammation is present in your body."
+                            ]
+                        },
+                        {
+                            "sub-title":"How does polycystic ovarian syndrome manifest?",
+                            "desc":[
+                                "PCOS's most typical signs and symptoms include:",
+                                "Regular intervals: ",
+                                "Missing periods or not having any periods at all are signs of abnormal menstruation. It could also result in significant bleeding during period",
+                                "Atypical hair growth:",
+                                "significant hair development on the arms, chest, and abdomen as well as excessive facial hair (hirsutism). Up to 70% of women with PCOS are impacted by this.",
+                                "Acne:",
+                                "Acne can be brought on by PCOS, particularly on the back, chest, and face. Acne may persist throughout the teen years and be challenging to treat.",
+                                "Overweight: ",
+                                "Approximately 80% of women with PCOS are overweight or obese and struggle with weight loss.",
+                                "Skin tannification: ",
+                                "Patches of black skin, particularly in the breasts, groyne, armpits, and creases of your neck. Acanthosis nigricans is the term for this.",
+                                "Cysts",
+                                "Small pockets of fluid are prevalent in the ovaries of PCOS patients.",
+                                "Skin identifiers:",
+                                "Skin tags are tiny skin flaps that protrude. In PCOS-afflicted women, they are frequently located on the neck or in the armpits.",
+                                "Hair thinning: ",
+                                "People who have PCOS may begin to bald or experience patches of hair loss on their heads.",
+                                "Infertility:",
+                                "The most frequent reason for female infertility is PCOS. Lack of ovulation or decreased ovulation frequency can prevent conception."
+                            ]
+                        },
+                        {
+                            "sub-title":"Can PCOS exist without any symptoms in me?",
+                            "desc":[
+                                "Yes, PCOS can exist without any obvious symptoms. Many individuals don't even recognise they have the illness until they experience difficulties getting pregnant or start accumulating weight for unexplained reasons. It's also possible to have moderate PCOS, in which case your symptoms would go unnoticed."
+                            ]
+                        },
+                        {
+                            "sub-title":"The diagnosis of polycystic ovarian syndrome is how?",
+                            "desc":[
+                                "The majority of the time, a physical examination is all that is required to determine PCOS. To assist with the diagnosis, they could do an ultrasound or order blood tests.",
+                                "Your medical professional will:",
+                                "Discuss your symptoms and medical background with you.",
+                                "Inquire about the medical history of your family.",
+                                "Consider your blood pressure and weight.",
+                                "Examine yourself physically, paying close attention to any skin tags, hair loss, acne, or abundant facial hair.",
+                                "To check for enlarged ovaries or other growths in your uterus, perform a pelvic exam.",
+                                "Request blood tests to examine your glucose and hormone levels.",
+                                "Use a pelvic ultrasound to assess the thickness of your uterus' lining and look for cysts in your ovaries.",
+                                "Typically, PCOS is diagnosed if at least two of the following are present:",
+                                "missing or irregular periods When they do get their period, some people with PCOS bleed a lot.",
+                                "acne or excessive hair growth are symptoms of too much androgen. Or, a blood test demonstrating elevated amounts of androgen.",
+                                "one or both ovaries with cysts. Cysts do not develop in many persons."
+                            ]
+                        },
+                        {
+                            "sub-title":"The way that polycystic ovarian syndrome is handled?",
+                            "desc":[
+                                "Based on your symptoms, medical history, other health concerns, and whether you wish to get pregnant, your healthcare professional will decide on the best course of action. Medication, lifestyle modifications, or a mix of the two may be used as treatments. Treatment options if you don't want to get pregnant include:",
+                                "Hormonal birth control methods include oral pills, vaginal rings, patches, shots, and intrauterine devices (IUD). Hormonal birth control aids in acne improvement, excess hair growth reduction, and menstrual cycle regulation.",
+                                "Drugs that make insulin more sensitive: The medication metformin is used to treat diabetes. It functions by aiding insulin metabolism in your body. Some PCOS sufferers experience improvements in their menstrual cycles once insulin is under control.",
+                                "Drugs that block androgens: Some medications can prevent androgens from working. This aids in reducing acne or hair development brought on by PCOS. Find out if they are a good fit for you by speaking with your healthcare physician.",
+                                "alterations in way of life Having a balanced diet and losing weight can help lower insulin levels.",
+                                "Treatment for PCOS involves the following if you wish to get pregnant now or in the future:",
+                                "Drugs that cause ovulation, or the release of an egg: The first stage of a healthy pregnancy is ovulation. It has been demonstrated that several medications can cause ovulation in PCOS women. While gonadotropins are administered intravenously, the medicines clomiphene and letrozole must be taken orally.",
+                                "Surgery: By eliminating structures in the ovaries that are releasing androgen hormones, ovarian drilling surgery can cause ovulation to occur. Surgeons now infrequently conduct this operation due to the availability of newer drugs.",
+                                "With in vitro fertilisation (IVF), your partner's sperm fertilises your egg in a laboratory before being transported to your uterus. When taking medicine doesn't help with ovulation, PCOS women have this option."
+                                ]
+                        },
+                        {
+                            "sub-title":"Can PCOS or its effects be avoided?",
+                            "desc":[
+                                "Although there is no known way to stop PCOS, you can take simple measures to lessen your symptoms. For instance, eating healthily, working out frequently, and maintaining a healthy weight can all help you prevent the consequences of PCOS."
+                            ]
+                        },
+                        {
+                            "sub-title":"Is there ever a cure for polycystic ovarian syndrome?",
+                            "desc":[
+                                "Your PCOS may go away as a result of the hormone changes brought on by menopause, but not always. Sometimes a hormonal imbalance persists into menopause, so while you get older, your imbalance does not. Speak with your healthcare practitioner if your symptoms disturb you or reduce your quality of life so they can make treatment recommendations.",
+                                "Does PCOS increase my risk of developing other medical conditions? There is evidence that having PCOS increases your chance of developing a number of illnesses, including:",
+                                "Diabetes: Disease of the cardiovascular system. Hyperplasia of the endometrium. ",
+                                "Endometrial cancer, Various sleep disorders, including sleep apnea. both depression and anxiety. To be sure you comprehend the risks of acquiring these disorders, speak with your healthcare professional."
+                            ]
+                        },
+                        {
+                            "sub-title":"How can I manage my PCOS symptoms?",
+                            "desc":[
+                                "Losing weight through a healthy diet and consistent exercise is one of the greatest strategies to manage PCOS. Even a slight weight loss can have an impact on hormone levels, regulate your menstrual cycle, and lessen discomfort.",
+                                "Finally, remember that you are not alone if you have PCOS and are trying to get pregnant. With your cooperation, your doctor will assist you in getting pregnant. You can effectively control PCOS by eating well and reducing your stress levels."
+                            ]
+                        }
+                        
+                    ]
+                },
+                {
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title":"Does polycystic ovary syndrome run in families?",
+                            "fdesc":[
+                                "The reasons of PCOS are still the subject of extensive research. Evidence suggests that PCOS has a genetic or inherited component, nevertheless."
+                            ]
+                        },
+                        {
+                            "title":"Can someone with PCOS become pregnant?",
+                            "fdesc":[
+                                "If you have PCOS, you can still become pregnant. PCOS can make it difficult to get pregnant and raise your risk for some pregnancy issues. Together with you, your healthcare physician will create a treatment strategy to assist you in ovulating. You could use medicine or assisted reproductive methods like IVF as part of your treatment plan (In Vitro Fertilization).",
+                                "To make sure you comprehend your treatment plan and how to improve your chances of a safe and successful pregnancy, speak with your healthcare practitioner."
+                            ]
+                        },
+                        {
+                            "title":"What hormones are impacted by PCOS?",
+                            "fdesc":[
+                                "A hormonal imbalance in women with PCOS causes disruptions in the menstrual cycle, ovulation, and maybe pregnancy. The balance of these hormones, which form a complicated web, is crucial for the female reproductive system to work properly. The following hormones are involved in PCOS:",
+                                "Androgens (such testosterone and androstenedione) (like testosterone and androstenedione).",
+                                " Vitamin D hormone (LH).",
+                                " FSH stands for folicle-stimulating hormone.",
+                                " Estroge Progesterone.",
+                                "Insulin."
+                            ]
+                        },
+                        {
+                            "title":"What distinguishes PCOS from endometriosis?",
+                            "fdesc":[
+                                "Despite being distinct diseases, ovarian cysts and infertility are associated with both PCOS and endometriosis. When you have endometriosis, the lining of your uterus (endometrium) begins to grow in other locations, such as your ovaries, vagina, or fallopian tubes. Usually, it results in severe menstrual cramps or pelvic pain. Due to an excess of male hormones, women with PCOS experience irregular periods, unexpected ovulation, and other physical side effects.",
+                                "Infertility is frequently brought on by PCOS, which has been related to other illnesses. If you think you might have PCOS, discuss your symptoms with your doctor. You can control the symptoms, reduce your risk of developing additional health concerns, and get pregnant with the support of lifestyle modifications and medication therapies."
+                            ]
+                        }
+                    ]
                 }
+
+
+
+
                         ]
         }
     ]
