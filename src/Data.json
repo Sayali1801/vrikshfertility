@@ -1391,10 +1391,61 @@
                                 "j.Diseases such as diabetes, cirrhosis, or kidney failure. ",
                                 "k. Varicocele (veins coming from the testicle are dilated or widened impeding sperm production). "
 
-
-
                             ]
 
+                        },
+                        {
+                            "title":"How is azoospermia diagnosed?",
+                            "fdesc":[
+                                "Azoospermia is diagnosed when, on two separate occasions, your sperm sample reveals no sperm when examined under a high-powered microscope following a spin in a centrifuge. A centrifuge is a laboratory instrument that spins a test sample at a high speed to separate it into its various parts. In the case of centrifuged seminal fluid, if sperm cells are present, they separate from the fluid around them and can be viewed under a microscope.",
+                                "As part of the diagnosis, your healthcare provider will take your medical history, including asking you about the following:",
+                                "1. Fertility success or failure in the past (your ability to have children). ",
+                                "2. Childhood illnesses.",
+                                "3. Injuries or surgeries in the pelvic area (these could cause duct blockage or poor blood supply to the testicles).",
+                                "4. Urinary or reproductive tract infections. ",
+                                "5. History of sexually transmitted diseases. ",
+                                "6. Exposure to radiation or chemotherapy. ",
+                                "7. Your current and past medications. ",
+                                "8. Any abuse of alcohol, marijuana or other drugs.",
+                                "9. Recent fevers or exposure to heat, including frequent saunas or steam baths (heat kills sperm cells).",
+                                "10. Family history of birth defects, learning disabilities, reproductive failure or cystic fibrosis.",
+                                "Your healthcare provider will also conduct a physical examination, and will check:",
+                                "11. Your entire body in terms of signs of/lack of maturation of your body and reproductive organs.",
+                                "12. Your penis and scrotum, checking for the presence of your vas deferens, tenderness or swelling of your epididymis, size of the testicles, the presence or absence of a varicocele, and any blockage of the ejaculatory duct (via exam through the rectum) as evidenced by enlarged seminal vesicles.",
+                                "Your healthcare provider may also order the following tests:",
+                                "13. Measurement of testosterone and follicle-stimulating hormone (FSH) levels.",
+"14. Genetic testing. ",
+"15.X-rays or ultrasound of the reproductive organs to see if there are any problems with the shape and size, and to see if there are tumors, blockages or an inadequate blood supply.",
+"16. Imaging of the brain to identify disorders of the hypothalamus or pituitary gland.",
+"17. Biopsy (tissue sampling) of the testes. A normal biopsy would mean a blockage is probable at some point in the sperm transport system. Sometimes, any sperm found in the testes is frozen for future analysis or can be used in assisted pregnancy."
+                            ]
+                        },
+                        {
+                            "title":"How is azoospermia treated?",
+                            "fdesc":[
+                                "Treatment of azoospermia depends on the cause. Genetic testing and counselling are often an important part of understanding and treating azoospermia. Treatment approaches include:",
+                                "If a blockage is the cause of your azoospermia, surgery can unblock tubes or reconstruct and connect abnormal or never developed tubes.",
+                                "If low hormone production is the main cause, you may be given hormone treatments. Hormones include follicle-stimulating hormone (FSH), human chorionic gonadotropin (HCG), clomiphene, anastrazole and letrozole.",
+                                "If a varicocele is the cause of poor sperm production, the problem veins can be tied off in a surgical procedure, keeping surrounding structures preserved.",
+                                "Sperm can be retrieved directly from the testicle with an extensive biopsy in some men",
+                                "If living sperm are present, they can be retrieved from the testes, epididymis or vas deferens for assisted pregnancy procedures such as in vitro fertilization or intracytoplasmic sperm injection (the injection of one sperm into one egg). If the cause of azoospermia is thought to be something that could be passed on to children, your healthcare provider may recommend genetic analysis of your sperm before assisted fertilization procedures are considered."
+                            ]
+                        },
+                        {
+                            "title":"How can azoospermia be prevented?",
+                            "fdesc":[
+                                "There is no known way to prevent the genetic problems that cause azoospermia. If your azoospermia is not a genetic problem, doing the following can help lessen the chance of azoospermia:",
+                                "1. Avoid activities that could injure the reproductive organs. ",
+                                "2. Avoid exposure to radiation. ",
+                                "3. Know the risks and benefits of medications that could harm sperm production.",
+                                "4. Avoid lengthy exposure of your testes to hot temperatures."
+                            ]
+                        },
+                        {
+                            "title":"What is the long-term outlook for those with azoospermia?",
+                            "fdesc":[
+                                "Every cause of azoospermia has a different prognosis. Many causes of azoospermia can be reversed. You and your healthcare team will work together to determine the cause of your azoospermia and treatment options. Hormonal problems and obstructive causes of azoospermia are usually treatable and fertility can potentially be restored. If testicular disorders are the cause, it’s still possible to retrieve live sperm to be used in assisted reproductive techniques."
+                            ]
                         }
                     ]
                 }
