@@ -1253,7 +1253,7 @@
                             "title": "IVF-assisted hatching: Is it secure?",
                             "fdesc": [
                                 "Complications from assisted hatching are possible. It may be linked to a decrease in the viability of the embryo as well as harm to the embryo and individual blastomeres.",
-                                "Furthermore, aided hatching has been linked to a higher incidence of twin pregnancies. ",
+                                "Furthermore, aided hatching has been linked to a higher incidence of twin pregnancies. "
                             ]
                         }
                     ]
@@ -1320,7 +1320,7 @@
                 {
                     "sub_title": "AzooSpermia",
                     "desc": [
-                        "Azoospermia means there’s no sperm in a man’s ejaculate. Its causes include a blockage along the reproductive tract, hormonal problems, ejaculation problems or issues with testicular structure or function. Many causes are treatable and fertility can be restored. For other causes it may be possible to retrieve live sperm to be used in assisted reproductive techniques. Male reproductive anatomy.",
+                        "Azoospermia means there’s no sperm in a man’s ejaculate. Its causes include a blockage along the reproductive tract, hormonal problems, ejaculation problems or issues with testicular structure or function. Many causes are treatable and fertility can be restored. For other causes it may be possible to retrieve live sperm to be used in assisted reproductive techniques. Male reproductive anatomy."
                     ]
                 },
                 {
@@ -1453,6 +1453,46 @@
         },
 
 
+
+        {
+            "treatment_name": "Donor Egg ",
+                    "sub-title": "FAQs",
+                    "desc": [
+                        {
+                            "title": "What does egg donation entail??",
+                            "fdesc": [
+                                "When a woman gives her eggs (or oocytes), she is assisting another woman in getting pregnant. The male partner's sperm or donor sperm may be used to fertilise donor eggs.",
+                                "If there are no medical reasons why a woman shouldn't carry a pregnancy, donor egg IVF may be a viable choice for those who are unable to conceive with their own eggs. Advanced age, a decreased ovarian reserve, early ovarian failure that is either undiagnosed or brought on by autoimmune diseases, chemotherapy, or surgical menopause are all indications for donor egg IVF. IVF with donor eggs is also suitable for women who have genetic mutations."
+                            ]
+                        },
+                        {
+                            "title": "The egg donation procedure",
+                            "fdesc": [
+                                "According to ICMR rules, egg donation is a private practise. Donors of eggs are typically young, healthy women with one or more kids. Infections like HIV and hepatitis are screened for, and a full medical and psychological evaluation is also performed. The ICMR's recommended tests are carried out, and its rules are properly adhered to. An egg donor will be added to the programme once the application and legal documents have been finished."
+                            ]
+                        },
+                        {
+                            "title":"How is donor egg IVF carried out?",
+                            "fdesc":[
+                                "IVF donor egg cycles mix the recipient and donor egg cycles. The menstrual cycle of the egg donor and the recipient's use of birth control tablets are often coordinated. On the second day of menstruation, the receiver starts taking estradiol tablets to prepare her uterus, while the donor starts receiving injections to stimulate her ovaries. Once the donor's follicles are prepared, which typically takes 11–12 days, the egg retrieval operation is carried out under anaesthetic and ultrasound monitoring. The recipient's partner gives a sample of his semen on the day of egg retrieval. The gametes are then fertilised in a laboratory setting. The recipient is given luteal support medicines. Three to five days later, a USG directs the transfer of one to two embryos into the recipient's uterus. If there are extra embryos, they can be stored in the freezer for later use."
+                            ]
+                        }
+                    ]
+                    },
+
+
+                    {
+                        "treatment_name": "Donor Sperm ",
+                        "sub_data": [
+                            {
+                                "sub_title": "Donation of sperm",
+                                "desc": [
+                                        "The couple may decide to use donated sperm when there is significant male factor infertility. The sperm donors must donate at the authorised sperm banks and are typically anonymous. Before releasing the semen sample, they are also tested for infectious viral infections like HIV, Hbsag, and HCV. The same tests are done every 6 months."
+                                ]
+            
+
+                    },
+            
 
 
 
