@@ -1126,8 +1126,6 @@
                 }
             ]
         },
-
-
         {
             "treatment_name": "ICSI",
             "sub_data": [
@@ -1136,7 +1134,7 @@
                     "desc": [
                         "It is a method of assisted reproduction that consists of injecting a single sperm directly into the cytoplasm of an oocyte using specialised micro-manipulators."
                     ]
-                },    
+                },
                 {
                     "sub-title": "What is Intracytoplasmic Sperm Injection (ICSI)?",
                     "desc": [
@@ -1146,78 +1144,69 @@
                 },
                 {
                     "sub-title": "How does ICSI work?",
-                    "desc":
-                        [
-                            "An egg may be fertilized by IVF in two ways: traditionally and through ICSI. Traditional IVF involves placing 50,000 swimming sperm next to an egg in a laboratory dish. When one of the sperm enters the cytoplasm of the egg, fertilization occurs. An ICSI procedure involves injecting a single sperm into an egg with a tiny needle called a micropipette. In either traditional IVF or ICSI, after fertilization, the fertilized egg (now called an embryo) grows in a laboratory for 1 to 5 days before being transferred into the uterus."
-                        ]
+                    "desc": [
+                        "An egg may be fertilized by IVF in two ways: traditionally and through ICSI. Traditional IVF involves placing 50,000 swimming sperm next to an egg in a laboratory dish. When one of the sperm enters the cytoplasm of the egg, fertilization occurs. An ICSI procedure involves injecting a single sperm into an egg with a tiny needle called a micropipette. In either traditional IVF or ICSI, after fertilization, the fertilized egg (now called an embryo) grows in a laboratory for 1 to 5 days before being transferred into the uterus."
+                    ]
                 },
                 {
                     "sub-title": "Why would I need ICSI?",
-                    "desc": 
-                        [
-                            "Among the fertility problems that can be overcome with ICSI are:",
-                            "1. Artificial insemination (intrauterine insemination [IUI]) or in vitro fertilization are not feasible if the male partner produces insufficient sperm.",
-                            "2. There may be an abnormal movement of the sperm. ",
-                            "3. It is possible that the sperm has difficulty attaching to the egg. ",
-                            "4. The male reproductive tract may be blocked, preventing sperm from reaching the uterus.",
-                            "5. Despite the condition of the sperm, traditional IVF has not produced fertile eggs.",
-                            "6. The eggs are matured in vitro.  ",
-                            "7. Eggs that had been frozen previously are being used."
-                        ]
-                    },
-
-
-            {
+                    "desc": [
+                        "Among the fertility problems that can be overcome with ICSI are:",
+                        "1. Artificial insemination (intrauterine insemination [IUI]) or in vitro fertilization are not feasible if the male partner produces insufficient sperm.",
+                        "2. There may be an abnormal movement of the sperm. ",
+                        "3. It is possible that the sperm has difficulty attaching to the egg. ",
+                        "4. The male reproductive tract may be blocked, preventing sperm from reaching the uterus.",
+                        "5. Despite the condition of the sperm, traditional IVF has not produced fertile eggs.",
+                        "6. The eggs are matured in vitro.  ",
+                        "7. Eggs that had been frozen previously are being used."
+                    ]
+                },
+                {
                     "sub-title": "FAQs",
                     "desc": [
                         {
                             "sub-title": "Will ICSI work?",
-                            "desc": 
-                                [
-                                    "It is estimated that between 50% and 80% of eggs are fertilized using ICSI. ICSI may, however, cause the following problems:",
-                                    "1. Eggs may be damaged in part or in whole. ",
-                                    "2. The egg may not become an embryo even if sperm is injected into it. ",
-                                    "3. The growth of embryos may stop. ",
-                                    "In either case, couples have the same chances of having a single child, twins, or triplets after fertilization."
-                                ]
-                            },
-                            {
-                                "sub-title":"Is ICSI harmful to the development of a baby?",
-                                "desc":[
+                            "desc": [
+                                "It is estimated that between 50% and 80% of eggs are fertilized using ICSI. ICSI may, however, cause the following problems:",
+                                "1. Eggs may be damaged in part or in whole. ",
+                                "2. The egg may not become an embryo even if sperm is injected into it. ",
+                                "3. The growth of embryos may stop. ",
+                                "In either case, couples have the same chances of having a single child, twins, or triplets after fertilization."
+                            ]
+                        },
+                        {
+                            "sub-title": "Is ICSI harmful to the development of a baby?",
+                            "desc": [
                                 "Approximately 1.5% to 3% of babies born naturally have birth defects. The risk of birth defects associated with ICSI is similar to that associated with IVF, but slightly higher than that of natural conception.",
                                 "Perhaps the slightly higher birth defect risk is due to infertility, and not the fertility treatments.",
                                 "There have been reports of Beckwith-Wiedemann syndromes, Angelman syndromes, hypospadias, or abnormal sex chromosomes being associated with ICSI.",
                                 "These problems are thought to occur in fewer than 1% of children conceived this way.",
                                 "Genetic problems may contribute to infertility. Male children conceived via ICSI may experience the same infertility issues as their fathers. "
-                                ]
-                            },
-                            {
-                                "sub-title":"How effective is ICSI?",
-                                "desc":[
-                                    "several couples with challenging male factor infertility issues have succeeded in getting pregnant with the ICSI treatment. Presently, it is possible to fertilise 70 to 80 percent of all injected eggs, which is identical to fertilisation with normal sperm. Pregnancy rates are also comparable to those of IVF in couples without male factor infertility.",
-                                    "The fertilisation rate attained with the ICSI process appears to be the most crucial sign of ICSI success. The UCSF IVF lab has an outstanding fertilisation rate, which is currently between 80 and 85 percent. In other words, eight out of every ten eggs will generally fertilise."
-                                ]
-                            },
-                            {
-                                "sub-title":"Are all of our eggs going to be injected?",
-                                "desc":[
-                                    "In the event that you decide to proceed with ICSI, we will do our best to inject as many eggs as possible. You need to know that only mature eggs can be injected with sperm. A mature egg can easily be identified by our IVF laboratory. Although the immature eggs are incubated with sperm, there is very little chance of fertilization. We are able to inject 75 percent to 80 percent of the recovered eggs on average."
-                                ]
-                            },
-                            {
-                                "sub-title":"Is there a difference between ICSI and non-ICSI embryos in terms of quality or pregnancy rate?",
-                                "desc":[
-                                    "The overall quality of ICSI embryos appears to be the same as that of non-ICSI embryos. The pregnancy rate of ICSI embryos was not different from that of non-ICSI embryos. Infertility specialists believe ICSI may increase embryo yield from a given number of eggs recovered, resulting in an increase in ICSI procedures despite unproven claims."
-                                ]
-                            }
+                            ]
+                        },
+                        {
+                            "sub-title": "How effective is ICSI?",
+                            "desc": [
+                                "several couples with challenging male factor infertility issues have succeeded in getting pregnant with the ICSI treatment. Presently, it is possible to fertilise 70 to 80 percent of all injected eggs, which is identical to fertilisation with normal sperm. Pregnancy rates are also comparable to those of IVF in couples without male factor infertility.",
+                                "The fertilisation rate attained with the ICSI process appears to be the most crucial sign of ICSI success. The UCSF IVF lab has an outstanding fertilisation rate, which is currently between 80 and 85 percent. In other words, eight out of every ten eggs will generally fertilise."
+                            ]
+                        },
+                        {
+                            "sub-title": "Are all of our eggs going to be injected?",
+                            "desc": [
+                                "In the event that you decide to proceed with ICSI, we will do our best to inject as many eggs as possible. You need to know that only mature eggs can be injected with sperm. A mature egg can easily be identified by our IVF laboratory. Although the immature eggs are incubated with sperm, there is very little chance of fertilization. We are able to inject 75 percent to 80 percent of the recovered eggs on average."
+                            ]
+                        },
+                        {
+                            "sub-title": "Is there a difference between ICSI and non-ICSI embryos in terms of quality or pregnancy rate?",
+                            "desc": [
+                                "The overall quality of ICSI embryos appears to be the same as that of non-ICSI embryos. The pregnancy rate of ICSI embryos was not different from that of non-ICSI embryos. Infertility specialists believe ICSI may increase embryo yield from a given number of eggs recovered, resulting in an increase in ICSI procedures despite unproven claims."
+                            ]
+                        }
                     ]
                 }
             ]
         },
-
-
-
-
         {
             "treatment_name": "ERA",
             "sub_data": [
@@ -1531,8 +1520,7 @@
                 },
                 {
                     "sub-title": "FAQs",
-                    "desc": [
-                    ]
+                    "desc": []
                 }
             ]
         },
@@ -1561,86 +1549,113 @@
                 }
             ]
         },
-        
         {
             "treatment_name": "Donor Sperm ",
-            "sub_data": 
+            "sub_data": {
+                "sub_title": "Donation of sperm",
+                "desc": [
+                    "The couple may decide to use donated sperm when there is significant male factor infertility. The sperm donors must donate at the authorised sperm banks and are typically anonymous. Before releasing the semen sample, they are also tested for infectious viral infections like HIV, Hbsag, and HCV. The same tests are done every 6 months."
+                ]
+            
+            }
+        },
+        {
+            "treatment_name": "Blastocyst Culture & Transfer ",
+            "sub_data": [
                 {
-                    "sub_title": "Donation of sperm",
+                    "sub-title": "Blastocyst Culture & Transfer ",
                     "desc": [
-                        "The couple may decide to use donated sperm when there is significant male factor infertility. The sperm donors must donate at the authorised sperm banks and are typically anonymous. Before releasing the semen sample, they are also tested for infectious viral infections like HIV, Hbsag, and HCV. The same tests are done every 6 months."
+                        "It is now possible to accomplish so many things that were previously unthinkable due to the advancement of medical knowledge. The embryo can now be grown for longer than the customary three days thanks to changes made to the liquid used for in vitro cultivation. The final stage of the embryo's development before it leaves the egg by rupturing the zona pellucida and embeds itself in the uterine wall is the blastocyst, which may now be cultured in vitro for up to 5 days."
                     ]
-                }
-            },
-
-
-            {
-                "treatment_name": "Blastocyst Culture & Transfer ",
-                "sub_data": [
-                    {
-                        "sub-title": "Blastocyst Culture & Transfer ",
-                        "desc": [
-                            "It is now possible to accomplish so many things that were previously unthinkable due to the advancement of medical knowledge. The embryo can now be grown for longer than the customary three days thanks to changes made to the liquid used for in vitro cultivation. The final stage of the embryo's development before it leaves the egg by rupturing the zona pellucida and embeds itself in the uterine wall is the blastocyst, which may now be cultured in vitro for up to 5 days."
-                        ]
-                    },
-                    {
-                        "sub-title":"Why Is It Performed?",
-                        "desc":[
-                            "Pregnancy rates are greater after blastocyst-stage embryo transfer on the fifth day. There are potentially two plausible explanations for this:",
+                },
+                {
+                    "sub-title": "Why Is It Performed?",
+                    "desc": [
+                        "Pregnancy rates are greater after blastocyst-stage embryo transfer on the fifth day. There are potentially two plausible explanations for this:",
                         "In the beginning, transferring the blastocyst to the uterus may be more medically suitable because it closely mimics nature, increasing the likelihood that the embryo will implant.",
                         "Furthermore, waiting until the blastocyst stage allows the expert to select the best embryo because undesired babies are likely to terminate before they get to this stage.",
                         "Fundamentally, the likelihood of potentially hazardous twin or triplet birth is reduced by blastocyst transfer. Higher implantation rates allow doctors to exchange fewer blastocysts, possibly just one, reducing or avoiding multiple births and the problems they bring. With the help of vitrification, extra blastocysts can also be successfully cryopreserved so that pregnancies can be carried out in the future."
+                    ]
+                },
+                {
+                    "sub-title": "Advantages of the blastocyst method over traditional embryo transfer techniques ",
+                    "desc": [
+                        "The majority of embryo transfers in the past took place on days two or three. In any event, the majority of excellent clinics have moved on to routinely performing day five (blastocyst) transfers. Tragically, many IVF clinics in India still transfer embryos on the second or third day because this is not yet the common option. This is primarily due to their lack of tremendous confidence in the capabilities of their research facility and their embryologist's ability to culture eggs up to day five. They justify this by telling the patient that it's preferable for the embryo to hatch inside the uterus earlier, which is why they lean toward transferring the embryo into the uterus. However, there are a lot of disadvantages to this, therefore you should request that your doctor perform a blastocyst transfer on your behalf.",
+                        "When compared to Day 2 or Day 3 transfer, blastocysts have a higher possibility of implanting, hence the success percentage is higher with blastocyst transfer. They are more likely since they are more developed and have more cells. When compared to transferring three or four Day 3 embryos, the specialist can reduce the number of embryos to be transferred and exchange only a few blastocysts while still having a high pregnancy rate.",
+                        "Additionally, since the expert is only exchanging 1–2 blastocysts, you can freeze the extra blastocysts, giving you the chance to complete multiple cycles in the future. In light of the fact that the overall pregnancy rate is increasing, this makes it more useful.",
+                        "The final and most important reason to request a blastocyst transfer is that you won't have to endure the scary 2-week wait during which you won't know whether you will become pregnant or not if you have poor quality embryos. Therefore, if the IVF cycle fails after exchanging Day 3 embryos, it is impossible to determine if the problem was that the foetus did not develop further or whether there was some other reason why the implantation failed. Even more so, you're uncertain as to whether your embryo will live for five days or not.",
+                        "This is especially true for older women with fewer eggs. Such women are more likely to experience a failed IVF because their embryos are more likely to halt and not develop into blastocysts. Many of the embryos can be genetically abnormal.",
+                        "These are the patients who might benefit most greatly from a blastocyst transfer. However, because they typically have poor ovarian response, the doctor is reluctant to develop the embryos all the way to the blastocyst stage when just 3–4 eggs are collected. The patient will blame them if it doesn't work out. For this reason, they would much rather transfer the embryos back into the uterus, where they could claim  \"implantation failure\" if the cycle did not succeed.",
+                        "However, following the embryo swap, the patient is duped into believing that \"Amazingly, possibly this embryo may implant and grow into a baby,\" which is why they are so optimistic during the waiting period.",
+                        "This false expectation is hurting. They believe that their uterus rejected the embryo at the time when the cycle ends prematurely, which is when they are persuaded to pursue surrogacy. This is dreadful advise which is absolutely imperfect on the grounds that the issue is with the egg and not with the uterus.",
+                        "Aveya IVF maintains an honest approach with all the patients and gives the best potential outcome in each situation. This is combined with our highly skilled and informed specialists who can assist you in getting the greatest outcome from your IVF operation. Consult with our skilled fertility doctors to know more about this process and discuss your alternatives."
+                    ]
+                },
+                {
+                    "treatment_name": "PGT -A ",
+                    "sub_data": [
+                        {
+                            "sub-title": "An overview of genetic testing for preimplantation embryos",
+                            "desc": [
+                                "Preimplantation genetic testing (PGT) during in vitro fertilisation (IVF) screens embryos for a variety of genetic issues that can cause implantation failure, miscarriage, and birth abnormalities in a child.",
+                                "Birth abnormalities or pregnancy loss can result from a variety of genetic illnesses, such as extra chromosomes in the embryo (like Down syndrome), single gene diseases (like sickle cell anaemia), or gene rearrangements.",
+                                "There are three different kinds of PGTs, which perform the same tasks as the well-known PGD and PGS tests for preimplantation genetic diagnosis and screening, respectively.",
+                                "Using PGT, embryologists can identify genetic flaws in an embryo prior to IVF, preventing those embryos from being implanted into the woman's uterus."
+                            ]
+                        },
+                        {
+                            "sub-title": "For embryos, what is preimplantation genetic testing (PGT)?",
+                            "desc": [
+                                "Preimplantation genetic testing on embryos during IVF is possible in three ways:",
+                                "examining chromosomal counts during preimplantation genetic testing to look for abnormalities (PGT-A)",
+                                "In PGT-A, the chromosome count of embryonic cells is examined to see if it is normal. An uneven division of either sperm or egg cells can result in an embryo having either too few or too many chromosomes.",
+                                "People typically have 46 chromosomes since each parent contributes 23 chromosomes to each child. An embryo or cell is said to be aneuploid if it has an additional chromosome or if one is missing altogether. When one chromosome is absent, the condition is known as monosomy; when one chromosome has two copies, it is known as trisomy.",
+                                "Turner syndrome, which results from the lack of an X chromosome, is the only monosomy that can survive in a child. Trisomy 21 (Down syndrome), Turner syndrome, and other conditions can occur from an extra chromosome in pair 21 of normal chromosomes. Aneuploidy is one of the leading causes of miscarriage and unsuccessful pregnancy implantation."
+                            ]
+                        },
+                        {
+                            "sub-title": "FAQs",
+                            "desc": [
+                                {
+                                    "title": "The PGT-A test looks for what kinds of chromosomal abnormalities?",
+                                    "fdesc": [
+                                        "The main goal of a PGT-A embryo is to guarantee that it is euploid, or having the appropriate amount of chromosomes. PGT-A can identify monosomies (incomplete chromosomes) and trisomies (incomplete chromosomes) in embryos. PGT-A also checks for chromosomal duplications and deletions. Large deletions and duplications are necessary for their detection. In some versions, but not all, the PGT-A may also pick up on mosaicism and uniparental disomy (UPD). Our genetic counsellor will go over the different kinds of outcomes that can be discovered during your session."
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "treatment_name":"Recurrent Pregnancy Loss Treatment:",
+                    "sub_data":[
+                        {
+                            "sub-title":"Recurrent Pregnancy Loss Treatment:",
+                            "desc":["Many women have a miscarriage at one time or another. Miscarriages can happen for many reasons. Having a miscarriage doesn’t mean a woman will have another miscarriage if she tries again. But some women suffer more than one miscarriage. This is called recurrent pregnancy loss (RPL). Women and families often grieve these losses deeply. Women may also worry that they are sick or did something to cause the losses. RPL, however, is often a natural process. Less than half of recurrent miscarriages have an obvious or treatable cause. Almost two-thirds of women with RPL will eventually have a healthy pregnancy — often without any extra treatment. If you have suffered two or more miscarriages, you should talk with your health-care provider. Often, women decide to continue trying to get pregnant naturally. However, in certain situations, your doctor might suggest treatments to help reduce your risk for miscarriage."]
+                        },
+                        {
+                            "sub-title":"Surgery",
+                            "desc":["Surgery can fix some problems in the uterus (womb), like extra tissue that divides the uterus (septum), some fibroids (benign tumors), or scar tissue. Correcting the shape of the inside of the uterus can often lower the chance for miscarriage. The surgeon uses a tool with a camera (hysteroscope) passed through the vagina to repair the inside of the uterus. This is usually a 1-day procedure and recovery time is a few days to a week."]
+                        },
+                        {
+                            "sub-title":"Blood-thinning medicines:",
+                            "desc":["Women with autoimmune or clotting (thrombophilia) problems may be treated with low-dose aspirin and heparin. These medicines can be taken during pregnancy to lower the risk of miscarriage. You should talk to a healthcare provider before using these medicines because they increase the chances of serious bleeding problems (such as stomach ulcers)."]
+                        },
+                        {
+                            "sub-title":"Correcting other medical problems",
+                            "desc":["Recurrent pregnancy loss may be related to some medical problems. These include abnormal blood sugar levels, an over- or underactive thyroid gland, or high levels of the hormone prolactin. Treating medical conditions such as diabetes, thyroid dysfunction, or high prolactin levels can improve the chances of having a healthy, full-term pregnancy. Genetic screening In about 5% of couples with RPL, one of the parents has a rearrangement (translocation) of their chromosomes. If one parent has a translocation, this can cause foetuses with chromosome imbalances that are more likely to miscarry. The parents’ blood can be studied (karyotyped) to see if they have a translocation. If a chromosomal problem is found, the doctor might recommend"]
+                        },
+                        {
+                            "sub-title":"Genetic Screening:",
+                            "desc":["While many couples with translocations eventually conceive a healthy pregnancy naturally, your doctor might suggest fertility treatments, such as in vitro fertilisation (IVF). During IVF, eggs and sperm are mixed outside of the body in a laboratory. After IVF, before the embryos are returned to the uterus, they can be tested (preimplantation genetic screening). This allows embryos without translocations to be chosen to increase the chance of a healthy pregnancy."]
+                        },
+                        {
+                            "sub-title":"Lifestyle Choices",
+                            "desc":["In general, whatever is healthy for a woman improves the chance of a healthy pregnancy. Stopping cigarette smoking and stopping illicit drug use (such as cocaine) will lower the risk for miscarriage. Limiting alcohol and caffeine intake may also help. Being overweight has been linked with increased risk of miscarriage, so healthy weight loss might also help pregnancy outcomes. There is no proof that stress, anxiety, or mild depression causes RPL. However, these are important problems that go along with RPL. Psychological support and counseling can help couples cope with the emotional pain of miscarriage and create a healthy environment for a pregnancy."]
+                        }
+                    ]
+                }
                         ]
-                    },
-                    {
-                        "sub-title": "Advantages of the blastocyst method over traditional embryo transfer techniques ",
-                        "desc":[
-                            "The majority of embryo transfers in the past took place on days two or three. In any event, the majority of excellent clinics have moved on to routinely performing day five (blastocyst) transfers. Tragically, many IVF clinics in India still transfer embryos on the second or third day because this is not yet the common option. This is primarily due to their lack of tremendous confidence in the capabilities of their research facility and their embryologist's ability to culture eggs up to day five. They justify this by telling the patient that it's preferable for the embryo to hatch inside the uterus earlier, which is why they lean toward transferring the embryo into the uterus. However, there are a lot of disadvantages to this, therefore you should request that your doctor perform a blastocyst transfer on your behalf." ,
-                            "When compared to Day 2 or Day 3 transfer, blastocysts have a higher possibility of implanting, hence the success percentage is higher with blastocyst transfer. They are more likely since they are more developed and have more cells. When compared to transferring three or four Day 3 embryos, the specialist can reduce the number of embryos to be transferred and exchange only a few blastocysts while still having a high pregnancy rate.",
-                            "Additionally, since the expert is only exchanging 1–2 blastocysts, you can freeze the extra blastocysts, giving you the chance to complete multiple cycles in the future. In light of the fact that the overall pregnancy rate is increasing, this makes it more useful.",
-                            "The final and most important reason to request a blastocyst transfer is that you won't have to endure the scary 2-week wait during which you won't know whether you will become pregnant or not if you have poor quality embryos. Therefore, if the IVF cycle fails after exchanging Day 3 embryos, it is impossible to determine if the problem was that the foetus did not develop further or whether there was some other reason why the implantation failed. Even more so, you're uncertain as to whether your embryo will live for five days or not.",
-                            "This is especially true for older women with fewer eggs. Such women are more likely to experience a failed IVF because their embryos are more likely to halt and not develop into blastocysts. Many of the embryos can be genetically abnormal.",
-                            "These are the patients who might benefit most greatly from a blastocyst transfer. However, because they typically have poor ovarian response, the doctor is reluctant to develop the embryos all the way to the blastocyst stage when just 3–4 eggs are collected. The patient will blame them if it doesn't work out. For this reason, they would much rather transfer the embryos back into the uterus, where they could claim  \"implantation failure\" if the cycle did not succeed.",
-                            "However, following the embryo swap, the patient is duped into believing that \"Amazingly, possibly this embryo may implant and grow into a baby,\" which is why they are so optimistic during the waiting period.",
-                            "This false expectation is hurting. They believe that their uterus rejected the embryo at the time when the cycle ends prematurely, which is when they are persuaded to pursue surrogacy. This is dreadful advise which is absolutely imperfect on the grounds that the issue is with the egg and not with the uterus.",
-                            "Aveya IVF maintains an honest approach with all the patients and gives the best potential outcome in each situation. This is combined with our highly skilled and informed specialists who can assist you in getting the greatest outcome from your IVF operation. Consult with our skilled fertility doctors to know more about this process and discuss your alternatives."
-                        ]
-
-                    }
-
-
-
-
-
-
-
-
-            {
-                "treatment_name": "fff",
-                "sub_data": [
-                    {
-                        "sub-title": "Ovulation Induction",
-                        "desc": [
-                            ""
-                        ]
-                    },                        {
-                        "sub-title": "FAQs",
-                        "desc": [
-                            {
-                                "title": "Do you do residential work?",
-                                "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                            },
-                            {
-                                "title": "Do you do residential work?",
-                                "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                            },
-                            {
-                                "title": "Do you do residential work?",
-                                "fdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
         }
+    ]
+}
