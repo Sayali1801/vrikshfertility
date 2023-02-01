@@ -1887,6 +1887,141 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "treatment_name":"Endometriosis and Infertility",
+                    "sub_data":[
+                        {
+                            "sub-title": "Endometriosis and infertility: what you need to know ",
+
+                            "desc": [
+                                    "●Is it a cause of infertility?",
+                                    "●Fertility and type",
+                                    "●Treatments for infertility"
+                            ]
+                        },
+                        {
+                            "sub-title":"Summary",
+                            "desc":[
+                                "In endometriosis, tissue similar to the uterine lining grows outside the uterus. It is possible for these growths to damage surrounding reproductive organs, affecting fertility as the condition progresses.",
+                                "Endometrium is a type of tissue that lines the inside of the uterus. Before ovulation, the lining is at its thickest, and it gets thicker throughout each month.",
+                                "Endometriosis is characterized by abnormal tissue that grows outside the uterus. Menstruation causes it to swell and bleed into areas that shouldn't be bleed. It thickens before ovulation.",
+                                "An individual may have difficulty getting pregnant if this swollen tissue blocks their fallopian tubes or grows into their ovaries. Find out more about endometriosis and infertility, how to treat the condition, and fertility treatment options."
+                            ]
+                        },
+                        {
+                            "sub-title":"Is endometriosis a cause of infertility?",
+                            "desc":[
+                                "Infertility is not necessarily caused by endometriosis, but it can be reduced by it It doesn't mean people with endometriosis can't become pregnant - it just means it may be more difficult for them.",
+                                "Women make up about half of the population, according to experts ",
+                                "Endometriosis is also associated with infertility. ",
+                                "Endometriosis is a progressive condition, meaning it can gradually worsen over time. As endometriosis patches grow in the pelvic and abdominal areas, they can block the reproductive organs. As a result, sperm have a harder time reaching the egg.",
+                                "It is also possible for these growths to damage the reproductive organs, preventing them from functioning properly.",
+                                "Endometriosis can also affect fertility by",
+                                "● Preventing the implanting of an embryo  ",
+                                "● Scarring of the fallopian tubes ",
+                                "● Affecting the growth of eggs ",
+                                "● Inducing hormonal imbalances",
+                                "● Chronic pelvic inflammation  "
+                            ]
+                        },
+                        {
+                            "sub-title":"Types of endometriosis and fertility",
+                            "desc":[
+                                "There are three main types",
+                                "There are three types of endometriosis: superficial peritoneal, endometriomas, and deep infiltrating. A person's body is classified according to the location of the endometriosis patches.",
+                                "A person can have one or multiple types. Additionally, medical professionals divide endometriosis into stages. They range from I–IV, with stage I being the least severe and stage IV the most severe."
+                            ]
+                        },
+                        {
+                                "sub-title":"Superficial peritoneal",
+                                "desc":[
+                                    "The peritoneum is a thin film lining the abdomen. When a person has a peritoneal lesion, they may have growths or cysts in the peritoneum.",
+                                    "Doctors usually class superficial peritoneal lesions as stage I or II endometriosis. Despite superficial peritoneal lesion being the least severe form of endometriosis, some people may find conceiving difficult."
+                                ]
+                        },
+                        {
+                            "sub-title":"Endometriomas",
+                            "desc":[
+                                "Endometriomas are cysts that grow on the surface of or inside the ovaries. They are dark, fluid-filled sacs that doctors sometimes refer to as chocolate cysts.",
+                                "When a person has endometrioma, they usually have stage III or IV Trusted Source",
+                                "endometriosis. This means they may begin developing scar tissue on the fallopian tubes and ovaries.",
+                                "Endometriomas can greatly impact a person’s fertility due to their damaging effect on ovarian tissue, which may lead to ovulation issues."
+                            ]
+                        },
+                        {
+                            "sub-title":"Deeply infiltrating",
+                            "desc":[
+                                "In deeply infiltrating endometriosis, endometrial-like tissue grows on organs near the uterus, such as the vagina, bladder, and bowel. It is the most severe form of the condition.",
+                                "Doctors usually classify deeply infiltrating endometriosis as stage IV because a person has growths or lesions that extend 5mm below Trusted Source the peritoneum.",
+                                "In addition to endometriomas, a person with stage IV endometriosis may have extensive scarring in the ovaries, uterus, and rectum.",
+                                "If a person has already undergone previous cyst removal surgeries, they may have also lost a significant number of eggs.",
+                                "It is important to note that while a person may no longer be able to conceive naturally at this stage, they may become pregnant with IVF treatment."
+                            ]
+                        },
+                        {
+                            "sub-title":"The endometriosis fertility index",
+                            "desc":[
+                                "If a person with endometriosis wants to conceive, a doctor may evaluate their condition using the endometriosis fertility index (EFI).",
+                                "The EFI is a 10-point scale that can tell a doctor how likely a person is to get pregnant without medical intervention. The scale considers factors including Trusted Source",
+                                "● Age",
+                                "● Endometriosis stage",
+                                "● Least function score (measures fallopian tube and ovarian function)",
+                                "● Length of infertility",
+                                "● Medical history",
+                                "● Prior pregnancies",
+                                "A person’s score can predict their likelihood of getting pregnant, and it can help individuals and doctors make the best decisions for their fertility.",
+                                "Although recommendations vary from person to person, a 2021 study Trusted Source concluded that people with scores of 5 or higher might be able to try conceiving naturally for 24 months before medical intervention. The authors said that those with scores of 4 or lower should be referred for artificial reproductive treatments more quickly."
+
+                            ]
+                        },
+                        {
+                            "sub-title":"Endometriosis fertility treatment options",
+                            "desc":[
+                                "If you have not become pregnant after trying for 6–12 months with endometriosis, there are several treatment options available.",
+                                "Depending on the type and stage of endometriosis, a doctor will recommend a treatment."
+                            ]
+                        },
+                        {
+                            "sub-title":"Stages I-II treatments",
+                            "desc":[
+                                "An individual with early endometriosis might be able to get pregnant without medical assistance.",
+                                "A doctor may perform an IVF procedure if a woman has difficulty conceiving Trusted Source a laparoscopy.",
+                                "This is a simple procedure where a medical professional inserts a camera through a small incision in the stomach. A doctor can use this to assess how many lesions a person has and surgically remove them if necessary.",
+                                "Although laparoscopy is a simple surgery, it comes with some risks. If a doctor removes lesions from an ovary, they can decrease the number of eggs a person has.",
+                                "For people who are 35 or older, doctors may recommend a combination of the drug clomiphene with intrauterine insemination (IUI) instead of surgery.",
+                                "During this treatment, a person takes clomiphene citrate to trigger ovulation. When they are ovulating, a doctor will place sperm into the uterus with a thin tube.",
+                                "If this treatment is unsuccessful, a doctor may suggest injectable fertility medications or IVF."
+                            ]
+                        },
+                        {
+                            "sub-title":"Treatments for stages III–IV",
+                            "desc":[
+                                "In the later stages of endometriosis, a doctor will likely recommend IVF. ",
+                                "This treatment requires a person to inject fertility medication that promotes egg growth. Once a person has enough eggs, a doctor harvests them. After selecting the best eggs, they fertilize each with sperm to create embryos.",
+                                "The doctor then implants embryos into the uterus. "
+                            ]
+                        },
+                        {
+                            "sub-title":"Support for endometriosis and infertility",
+                            "desc":[
+                                "Endometriosis is a painful, progressive condition that can be difficult to cope with. People struggling to get pregnant with the condition may feel isolated and discouraged, especially if they have been trying for a number of years without success.",
+                                "If someone needs additional resources, be it support groups or advice, they can try:",
+                                "● Endometriosis Association (EA) ",
+                                "● Endometriosis Foundation of America ",
+                                "● The InterNational Council on Infertility Information Dissemination (INCIID)",
+                                "● RESOLVE "
+                            ]
+                        },
+                        {
+                            "sub-title":"Summary",
+                            "desc":[
+                                "Endometriosis is a condition where endometrial-like tissue grows outside the uterus. It can impact a person’s fertility, making it harder to get pregnant.",
+                                "People in the early stages of the disease may be able to conceive without medical assistance, but they are likely to need medication, IUI, or IVF in the later stages.",
+                                "Living with endometriosis can be difficult, and support groups and resources can help those who are struggling."
+                            ]
+                        }
+                    ]
                 }
             ]
         }
